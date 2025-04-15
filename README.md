@@ -2,7 +2,7 @@
 
 🚒 Firefighter/Paramedic turned IT Support Specialist with a passion for cybersecurity, automation, and efficient problem-solving.  
 🎓 Master’s student in Information Technology (Cybersecurity + AI track) at the University of Cincinnati.  
-💡 I build tools to make IT support smarter, safer, and more scalable — check out some of my featured projects below:
+💡 I build tools to make IT support smarter, safer, and more scalable. Check out some of my featured projects below:
 
 ---
 
@@ -12,10 +12,12 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?logo=google&logoColor=white&style=flat)
 ![Zoom API](https://img.shields.io/badge/-Zoom_API-2D8CFF?logo=zoom&logoColor=white&style=flat)
 ![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-purple?style=flat)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF5733?style=flat)
+
 
 ---
 
