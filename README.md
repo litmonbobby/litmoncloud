@@ -41,6 +41,10 @@ Cross-platform GUI tool using PyCryptodome to securely encrypt/decrypt files.
 Parses logs, detects suspicious patterns (SQLi, XSS, Recon), and writes a report.  
 **Tech:** Python, JSON pattern-matching, CLI
 
+### 🐧 [Linux System Monitor](https://github.com/impxlsiv3/linux-system-monitor)
+A CLI utility that monitors CPU load, memory, disk space, and active users — with auto-flagging for suspicious activity like high usage. Saves reports locally.  
+**Tech:** Python, psutil, Linux `/proc`
+
 ---
 
 ## 📈 GitHub Stats
