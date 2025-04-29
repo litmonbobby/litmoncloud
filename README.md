@@ -1,8 +1,24 @@
 # 👋 Hey there, I’m Bobby Litmon (aka litmoncloud)
 
-🚒 Firefighter/Paramedic turned IT Support Specialist with a passion for cybersecurity, automation, and efficient problem-solving.  
-🎓 Master’s student in Information Technology (Cybersecurity + AI track) at the University of Cincinnati.  
-💡 I build tools to make IT support smarter, safer, and more scalable. Check out some of my featured projects below:
+# Hi, I'm Bobby Litmon 👋
+
+I'm a Cloud Security Engineer passionate about AWS, Python development, and cloud-native security solutions.  
+Currently pursuing my MSIT in Cybersecurity & Cloud at the University of Cincinnati.
+
+## Skills
+- Cloud: AWS (EC2, S3, IAM, Lambda), Azure (Foundational)
+- Security: IAM, Encryption, Cloud Networking, Threat Modeling
+- Programming: Python, Bash, Terraform (basic)
+- Tools: Git, Linux CLI, Docker (basic), Wireshark
+
+## Projects
+- **AWS Cloud Security Foundations** – Built a secure multi-tier AWS architecture.
+- **Network Traffic Analysis** – Detected ransomware patterns with Wireshark and ML.
+
+---
+
+:rocket: I'm constantly learning and excited about contributing to cloud security innovations!
+
 
 ---
 
