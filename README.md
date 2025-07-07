@@ -1,6 +1,6 @@
-# 👋 Hey there, I’m Bobby Litmon (aka litmoncloud)
+# 👋 Hey there, I’m Bobby (aka litmoncloud)
 
-# Hi, I'm Bobby Litmon 👋
+# Hi, I'm Bobby 👋
 
 I'm a Cloud Security Engineer passionate about AWS, Python development, and cloud-native security solutions.  
 Currently pursuing my MSIT in Cybersecurity & Cloud at the University of Cincinnati.
